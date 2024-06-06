@@ -12,12 +12,12 @@ It showcases a basic yet elegant agency website that adapts seamlessly across di
 
 # Table of Contents
 1. [Demo](#demo)
-2. [Technologies Used](#paragraph1)
-3. [Installation](#subparagraph1)
-4. [Usage](#paragraph2)
-5. [Project Structure](#paragraph2)
-6. [License](#paragraph2)
-7. [Contact](#paragraph2)
+2. [Technologies Used](#technologies-used)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Project Structure](#project-structure)
+6. [License](#license)
+7. [Contact](#contact)
 
 # Demo
 You can view a live demo of the project [here] (https://afubeangel.github.io/simple-agency-site/).
@@ -50,23 +50,32 @@ cd simple-agency-webpage
 - To modify styles, edit the style.css file in the root directory.
 - Add or update images in the assets directory.
 
-Project Structure
+
+# Project Structure
 
 simple-agency-webpage/
+
 ├── assets/
-│   ├── images/
-│   ├── ... (all images)
+
+├── images/
+
+├── ... (all images)
+
 ├── index.html
+
 ├── style.css
+
 ├── contact.html
+
 ├── README.md
 
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
+#Contact
 If you have any questions or need further assistance, feel free to contact me:
 
 GitHub: https://github.com/AfubeAngel
+
 Email: angelchinenye42@gmail.com
