@@ -28,38 +28,36 @@ You can view a live demo of the project [here] (https://afubeangel.github.io/sim
 3. Responsive design principles
 
 # Installation
-Clone the repository:
 
-bash
+## Clone the repository:
+
+```bash
 Copy code
-git clone https://github.com/angel-afube/simple-agency-webpage.git
-Navigate to the project directory:
+git clone https://github.com/AfubeAngel/simple-agency-site
+```
 
-bash
+## Navigate to the project directory:
+
+```bash
 Copy code
 cd simple-agency-webpage
-Open index.html in your browser to view the webpage.
+```
+
+## Open index.html (Go live) in your browser to view the webpage.
 
 # Usage
-To customize the content, edit the HTML files located in the root directory.
-To modify styles, edit the CSS files located in the css directory.
-Add or update images in the images directory.
-For JavaScript functionality, update the scripts directory.
+- To customize the content, edit the index.html file in the root directory.
+- To modify styles, edit the style.css file in the root directory.
+- Add or update images in the assets directory.
+
 Project Structure
-css
-Copy code
+
 simple-agency-webpage/
-├── css/
-│   ├── styles.css
-├── images/
-│   ├── logo.png
-│   ├── ... (other images)
-├── scripts/
-│   ├── main.js
+├── assets/
+│   ├── images/
+│   ├── ... (all images)
 ├── index.html
-├── about.html
-├── services.html
-├── portfolio.html
+├── style.css
 ├── contact.html
 ├── README.md
 
@@ -70,5 +68,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Contact
 If you have any questions or need further assistance, feel free to contact me:
 
-GitHub: your-username
-Email: your-email@example.com
+GitHub: https://github.com/AfubeAngel
+Email: angelchinenye42@gmail.com
