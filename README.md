@@ -22,6 +22,9 @@ It showcases a basic yet elegant agency website that adapts seamlessly across di
 # Demo
 You can view a live demo of the project [here] (https://afubeangel.github.io/simple-agency-site/).
 
+![project-image](https://github.com/AfubeAngel/simple-agency-site/assets/62173614/cd2fadba-848f-4b26-9762-06c94e8890c7)
+
+
 # Technologies Used
 1.HTML5
 2. CSS3
